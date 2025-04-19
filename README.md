@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI DeepLearning and MachineLearning
 - 🌱 I’m currently learning DeepLearnin
 - 💞️ I’m looking to collaborate on LLM , NLp , ComputerVisions, Machine Learning
-- 📫 How to reach me seyedamirzare@gmail.com
+- 📫 How to reach me seyedamirzare77@gmail.com
 - 😄 Pronouns: exploring galaxcy
 - ⚡ Fun fact: Historical & algorithmical bufffffff
 
