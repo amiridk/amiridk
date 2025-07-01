@@ -1,28 +1,23 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm __Amir_reza__!
 
-I'm a passionate [Your Profession/Role, e.g., Full-Stack Developer, Data Scientist, UX Designer] with a knack for building [what you build, e.g., scalable web applications, insightful data models, intuitive user interfaces]. I love transforming complex problems into elegant, user-friendly solutions.
+omputer Vision Junior passionate about building amazing models, with interests in history, programming, IoT, and AI.
 
 ---
 
 ### 🚀 What I'm Currently Up To
 
--   💻 Deep diving into **[Specific Technology/Framework]** for [mention a type of project or goal, e.g., optimizing database performance].
--   📖 Learning more about **[New Skill/Concept, e.g., Kubernetes, serverless architectures, machine learning ops]**.
--   ✨ Contributing to open source projects related to [Your Interest, e.g., accessibility, developer tooling].
+-   💻 Deep diving into **Tensorflow/keras** for __Computer_Visions__.
+-   📖 Learning more about **Machine learning , Image proccessing , Deep learning**.
+-   ✨ My contributions include open-source projects for Python backend development and Computer Vision.
 
 ### 🛠️ Skills & Technologies
 
 | Category      | Skills                                                 |
 | :------------ | :----------------------------------------------------- |
-| **Languages** | `Python` `JavaScript` `TypeScript` `Java` `Go` [Add more] |
-| **Frontend** | `React` `Vue.js` `Angular` `HTML` `CSS` [Add more]       |
-| **Backend** | `Node.js` `Django` `Flask` `Spring Boot` `Ruby on Rails` [Add more] |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Redis` [Add more]       |
-| **Cloud** | `AWS` `Azure` `GCP` [Add more]                         |
-| **Tools** | `Docker` `Kubernetes` `Git` `Jira` [Add more]            |
-
-[You can also use badges from shields.io for a more visual representation, e.g.:]
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,aws,python)](https://skillicons.dev)
+| **Languages** | `Python` `JavaScript` `php`|
+| **Backend** | `Django` `laravel`  |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
+| **Tools** | `Docker` `Kubernetes` `Git`   |
 
 ---
 
