@@ -25,26 +25,16 @@ omputer Vision Junior passionate about building amazing models, with interests i
 
 I'm always eager to learn and grow! Currently, I'm exploring:
 
-* [New technology/concept 1]
-* [New technology/concept 2]
-* [New technology/concept 3]
+* Mastering in AI
+* Tensorflow
+* OpenCV
 
 ---
 
 ### 🔗 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Personal Website/Portfolio:** [Your Website URL]
-* **Twitter (if applicable):** [Your Twitter Handle]
-* **Email:** [Your Professional Email Address]
+* **Email:** seyedamirzare77@gmail.com
 
 ---
 
-### 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-_"The only way to do great work is to love what you do."_ - Steve Jobs
