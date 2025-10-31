@@ -33,7 +33,7 @@ I'm always eager to learn and grow! Currently, I'm exploring:
 
 ### 🔗 Let's Connect!
 
-* **Email:** seyedamirzare77@gmail.com
+* **Email:** hidden.amrwz@gmail.com
 
 ---
 
